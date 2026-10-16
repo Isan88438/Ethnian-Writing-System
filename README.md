@@ -1,4 +1,4 @@
-# Ethnian-Writing-System
+# Ethnian Writing System
 
 _Welcome to the official GitHub Repo for the Ethnian Writing System!_
 
