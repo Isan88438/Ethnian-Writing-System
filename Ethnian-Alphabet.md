@@ -69,20 +69,20 @@ The primary Ethnian vowel letters are **I**, **Є**, **Λ**, **O**, and **U**, r
 ### Vowel Diacritics
 
 * **◌̷ (Height):** Changes the height of a vowel by one step. Depending on the base vowel and its assigned mapping, the vowel may be raised or lowered to represent a neighbouring vowel quality.
+* * **◌̸ (Position):** Changes the frontness or backness of the vowel.
 * **◌̵ (Rounding):** Reverses the rounding of the vowel, producing its rounded or unrounded counterpart where applicable.
-* **◌̴ (Centralisation):** Shifts the vowel towards the central column of the vowel chart according to its assigned vowel mapping.
 
 ### Chart of the Complete Ethnian Vowel Inventory
 
 | Height | Front | Central | Back |
 | :--- | :--- | :--- | :--- |
-| **Close** | I /i/ · I̵ /y/ | I̴ /ɨ/ · U̴ /ʉ/ | U̵ /ɯ/ · U /u/ |
+| **Close** | I /i/ · I̵ /y/ | I̸ /ɨ/ · U̸ /ʉ/ | U̵ /ɯ/ · U /u/ |
 | **Near-close** | I̷ /ɪ/ · I̷̵ /ʏ/ | — | U̷ /ʊ/ |
-| **Close-mid** | Є /e/ · Є̵ /ø/ | Є̴ /ɘ/ · O̴ /ɵ/ | O̵ /ɤ/ · O /o/ |
+| **Close-mid** | Є /e/ · Є̵ /ø/ | Є̸ /ɘ/ · O̸ /ɵ/ | O̵ /ɤ/ · O /o/ |
 | **Mid** | — | ЄO /ə/ | — |
-| **Open-mid** | Є̷ /ɛ/ · Є̵̷ /œ/ | Є̷̴ /ɜ/ · O̴̷ /ɞ/ | O̷̵ /ʌ/ · O̷ /ɔ/ |
-| **Near-open** | Λ̷ /æ/ | Λ̴ /ɐ/ | — |
-| **Open** | Λ /a/ · Λ̵ /ɶ/ | — | ΛO /ɑ/ · ΛU /ɒ/ |
+| **Open-mid** | Є̷ /ɛ/ · Є̵̷ /œ/ | Є̷̸ /ɜ/ · O̷̸ /ɞ/ | O̷̵ /ʌ/ · O̷ /ɔ/ |
+| **Near-open** | Λ̷ /æ/ | Λ̸ /ɐ/ | — |
+| **Open** | Λ /a/ · Λ̵ /ɶ/ | — | Λ̸ /ɑ/ · Λ̸̵ /ɒ/ |
 
 ---
 
