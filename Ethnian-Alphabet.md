@@ -64,7 +64,7 @@ Ethnian is designed to represent a wide range of vowel sounds while keeping its 
 
 These diacritics modify the pronunciation of a base vowel according to its height, rounding, and backness. This allows a relatively small number of symbols to represent a much larger range of vowel qualities while maintaining a consistent relationship between written forms and pronunciation.
 
-The primary Ethnian vowel letters are **I**, **Є**, **Λ**, **O**, and **U**, representing /i/, /e/, /a/, /o/, and /u/ respectively. Additional vowels are produced through diacritics and, where necessary, vowel digraphs.
+The primary Ethnian vowel letters are **Λ**, **Є**, **I**, **O**, and **U**, representing /a/, /e/, /i/, /o/, and /u/ respectively. Additional vowels are produced through diacritics and, where necessary, vowel digraphs.
 
 ### Vowel Diacritics
 
