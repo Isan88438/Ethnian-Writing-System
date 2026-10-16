@@ -7,3 +7,5 @@ It is a writing system that is used across many different languages natively and
 Doccuments:
 - Check Ethnian-Alphabet.md for the Alphabet
 - Check Ethnian-Punctuation.md for the Punctuation
+
+![The Red and Green Banner](Ethnian-Writing-System/The Red and Green Banner)
