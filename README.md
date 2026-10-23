@@ -8,4 +8,4 @@ Doccuments:
 - Check Ethnian-Alphabet.md for the Alphabet
 - Check Ethnian-Punctuation.md for the Punctuation
 
-![The Red and Green Banner](Ethnian-Writing-System/The Red and Green Banner.gif)
+![The Red and Green Banner.gif](The Red and Green Banner.gif)
