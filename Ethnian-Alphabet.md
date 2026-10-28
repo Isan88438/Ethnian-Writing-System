@@ -10,7 +10,7 @@ The Ethnian Alphabet is an evolving writing system and has had major changes sin
 
 | Latin Approximation | Ethnian | Type | IPA Range |
 | :--- | :--- | :--- | :--- |
-| A | Λ | Letter | /a/ |
+| A | Ʌ | Letter | /a/ |
 | B | Б | Letter | /b/ |
 | D | D | Letter | /d/ |
 | E | Є | Letter | /e/ |
@@ -81,8 +81,8 @@ The primary Ethnian vowel letters are **Λ**, **Є**, **I**, **O**, and **U**, r
 | **Close-mid** | Є /e/ · Є̵ /ø/ | Є̸ /ɘ/ · O̸ /ɵ/ | O̵ /ɤ/ · O /o/ |
 | **Mid** | — | ЄO /ə/ | — |
 | **Open-mid** | Є̷ /ɛ/ · Є̵̷ /œ/ | Є̷̸ /ɜ/ · O̷̸ /ɞ/ | O̷̵ /ʌ/ · O̷ /ɔ/ |
-| **Near-open** | Λ̷ /æ/ | Λ̷̸ /ɐ/ | — |
-| **Open** | Λ /a/ · Λ̵ /ɶ/ | — | Λ̸ /ɑ/ · Λ̸̵ /ɒ/ |
+| **Near-open** | Ʌ̷ /æ/ | Ʌ̷̸ /ɐ/ | — |
+| **Open** | Ʌ /a/ · Ʌ̵ /ɶ/ | — | Ʌ̸ /ɑ/ · Ʌ̸̵ /ɒ/ |
 
 ---
 
