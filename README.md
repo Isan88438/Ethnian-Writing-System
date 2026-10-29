@@ -1,4 +1,4 @@
-# This repo is scheduled to get achieved soon as all things to do with the Ethnian Writing System are moving to https://github.com/Isan88438/Ethnian. Thank you.
+# This repo is scheduled to get achieved soon as all things to do with the Ethnian Writing System are moving to https://github.com/Isan88438/Ethnian.
 
 # Ethnian Writing System
 
