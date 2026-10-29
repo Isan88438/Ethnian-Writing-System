@@ -1,3 +1,5 @@
+# This repo is scheduled to get achieved soon as all things to do with the Ethnian Writing System are moving to https://github.com/Isan88438/Ethnian. Thank you.
+
 # Ethnian Writing System
 
 _Welcome to the official GitHub Repo for the Ethnian Writing System!_
